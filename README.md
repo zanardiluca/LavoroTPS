@@ -15,7 +15,6 @@ Danno base d6, doppio sui critici
 Riduzione danno basata sulla Difesa
 
 4 Classi Disponibili:
-Classe	HP	MP	Forza	Intell.	Destrezza	Agilità	Difesa
 Barbaro[HP: 80, MP: 10, Forza: 9, Inteligenza: 2, Destrezza: 5,Agilita:	5, Difesa: 7]
 Guerriero[HP: 70, MP: 20, Forza: 8, Inteligenza: 4, Destrezza: 6, Agilita: 6, Difesa: 8]
 Mago[HP: 40, MP: 80, Forza: 2, Inteligenza: 9, Destrezza:	5, Agilita:	5, Difesa: 3]
