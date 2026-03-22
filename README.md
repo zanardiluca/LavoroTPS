@@ -1,7 +1,7 @@
 # LavoroTPS
 Lavoro di gruppo TPS 
 
-Un simulatore di combattimento 1v1 tra due giocatori (Player vs CPU) ispirato ai sistemi di D&D 5e. Il gioco utilizza dadi virtuali per determinare iniziativa, successi degli attacchi e danni critici.
+Un simulatore di combattimento 1v1 tra due giocatori ispirato ai sistemi di D&D 5e. Il gioco utilizza dadi virtuali per determinare iniziativa, successi degli attacchi e danni critici.
 
 ✨ Caratteristiche Principali
 Sistema di Iniziativa: Tiro con d20 + modificatore di Agilità per determinare l'ordine di turno
