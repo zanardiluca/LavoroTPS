@@ -15,7 +15,7 @@ Danno base d6, doppio sui critici
 Riduzione danno basata sulla Difesa
 
 4 Classi Disponibili:
-Barbaro[HP: 80, MP: 10, Forza: 9, Inteligenza: 2, Destrezza: 5,Agilita:	5, Difesa: 7]
-Guerriero[HP: 70, MP: 20, Forza: 8, Inteligenza: 4, Destrezza: 6, Agilita: 6, Difesa: 8]
-Mago[HP: 40, MP: 80, Forza: 2, Inteligenza: 9, Destrezza:	5, Agilita:	5, Difesa: 3]
-Ladro[HP: 50, MP: 30, Forza: 5, Inteligenza: 6, Destrezza: 9, Agilita: 9, Difesa: 4]
+Barbaro[HP: 120, MP: 10, Forza: 18, Inteligenza: 6, Destrezza: 10, Agilita: 12, Difesa: 14]
+Guerriero[HP: 100, MP: 20, Forza: 15, Inteligenza: 10, Destrezza: 12, Agilita: 10, Difesa: 16]
+Mago[HP: 70, MP: 80, Forza: 6, Inteligenza: 18, Destrezza: 11, Agilita: 11, Difesa: 8]
+Ladro[HP: 85, MP: 30, Forza: 10, Inteligenza: 11, Destrezza: 18, Agilita: 16, Difesa: 10]
