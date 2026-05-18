@@ -1,7 +1,17 @@
 # LavoroTPS
 Lavoro di gruppo TPS 
 
-Un simulatore di combattimento 1v1 tra due giocatori ispirato ai sistemi di D&D 5e. Il gioco utilizza dadi virtuali per determinare iniziativa, successi degli attacchi e danni critici.
+definire una classe playeer attributi: nome, classe, nPuntiVita. utlizzando securRandom() simulare un combattimento a turni dove il 
+risultato del securRandom() sarà riferito a un d20. stablire che in caso in cui il lancio del dado sia uguale a 1 dovrete stampare un
+messaggio che dica "miss". tutti i numeri da 2 a 19 si riferiranno al danno effettivo. nel caso in cui il risultato del dado si uguale a
+20 dovrete stampare un messaggio che dica "criticalhit" i danni saranno raddopiati. stabilire i turni. il primo personaggo che raggiunge
+hp 0 perderà la partita. creare un report su GitHub fare un file md(per descrive). aggiungere alla classe player un attributo chiamato
+classe. la classe che verra scelta dall'utente stara ad indicare la tipologia di personaggio e associare ad ogni tipologia di classe
+delle caratterisstiche hp, mp, forza, iniziativa, inteligenza, destrezza, fortuna, agilità, difesa, arcano. fissare a piacere le
+statistiche per ogni tipologia di classe. far scegliere il nome del personaggio. 
+
+Un simulatore di combattimento 1v1 tra due giocatori ispirato ai sistemi di D&D 5e. Il gioco utilizza dadi virtuali per determinare
+iniziativa, successi degli attacchi e danni critici.
 
 ✨ Caratteristiche Principali
 Sistema di Iniziativa: Tiro con d20 + modificatore di Agilità per determinare l'ordine di turno
