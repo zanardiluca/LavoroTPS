@@ -63,19 +63,19 @@ La classe `Player` rappresenta il personaggio giocabile.
 
 ## Barbaro
 
-`HP: 120 | MP: 10 | Forza: 18 | Intelligenza: 6 | Destrezza: 10 | Agilita: 12 | Difesa: 14`
+`MaxHP: 120 | MP: 10 | Forza: 18 | Intelligenza: 6 | Destrezza: 10 | Agilita: 12 | Difesa: 14`
 
 ## Guerriero
 
-`HP: 100 | MP: 20 | Forza: 15 | Intelligenza: 10 | Destrezza: 12 | Agilita: 10 | Difesa: 16`
+`MaxHP: 100 | MP: 20 | Forza: 15 | Intelligenza: 10 | Destrezza: 12 | Agilita: 10 | Difesa: 16`
 
 ## Mago
 
-`HP: 70 | MP: 80 | Forza: 6 | Intelligenza: 18 | Destrezza: 11 | Agilita: 11 | Difesa: 8`
+`MaxHP: 70 | MP: 80 | Forza: 6 | Intelligenza: 18 | Destrezza: 11 | Agilita: 11 | Difesa: 8`
 
 ## Ladro
 
-`HP: 85 | MP: 30 | Forza: 10 | Intelligenza: 11 | Destrezza: 18 | Agilita: 16 | Difesa: 10`
+`MaxHP: 85 | MP: 30 | Forza: 10 | Intelligenza: 11 | Destrezza: 18 | Agilita: 16 | Difesa: 10`
 
 ---
 
