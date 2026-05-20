@@ -31,7 +31,7 @@ nome	nome del personaggio
 classe	tipologia del personaggio
 hp	punti vita attuali
 maxHp	vita massima
-mp	stamina
+mp	mana
 forza	danno fisico
 intelligenza	potenza magica
 destrezza	precisione
